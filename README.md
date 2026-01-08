@@ -1,2 +1,1 @@
-# ics
-Indian Constitution Simplified with Spring AI and OpenAI
+A full-stack MERN web application to simplify the Indian Constitution
